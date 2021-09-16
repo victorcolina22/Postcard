@@ -49,14 +49,10 @@ body {
 input {
     font-family: 'Handlee', cursive;
     font-size: 17px;
-    border: none;
-    outline: none;
-}
-
-hr {
-    margin-right: 20px;
-    width: 180px;
-    height: 0px;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 1px solid grey;
+    border-left: 0;
 }
 
 .footer {
